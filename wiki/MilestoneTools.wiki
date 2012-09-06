@@ -1,0 +1,7 @@
+= Primary technologies and tools proposed for the execution of the project =
+
+  * Source code repository at [http://code.google.com/p/koodaripalvelut-open-source-car-sharing/source/checkout Google Code] using svn
+  * Project wiki web site at [http://code.google.com/p/koodaripalvelut-open-source-car-sharing/ Google Code]
+  * Domain Driven Design / Domain Driven Architecture; preferably some tool that generates models as .java files
+  * Java programming language (we start with JDK6 and upgrade as newer jave versions mature)
+  * Eclipse IDE or similar; project templates and code checkstyles will be dished out for Eclipse only.
