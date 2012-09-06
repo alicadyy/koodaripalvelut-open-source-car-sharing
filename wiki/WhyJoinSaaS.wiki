@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Are you a SAAS Service Provider? Do you want to make a contribution towards a cleaner environment? =
+= Are you a SaaS Service Provider? Do you want to make a contribution towards a cleaner environment? =
 
 We are starting an worlwode car sharing service and we need you to help us build it. If you think you have the skill and the will, you could be the right fit for our team. 
