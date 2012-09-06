@@ -30,3 +30,15 @@ Laskin että heidän rahoituksensa vastaa noin 450 vapaaehtoismiesnaistyövuotta
 Kaupallisissa ratkaisuissa on aina se ongelma, että ne tuppaavat klusteroitua. Jokainen haluaa olla yksinvaltias markkinoilla ja sulkea muut palveluntarjoajat pois. Tällainen open source alusta sen sijaan voisi tarjota kaikille mahdollisuuden osallistua kykenemällään tavalla: yksi vuokraa auton, toinen käyttää, yksi tankkaa, yksi huoltaa, yksi putsaa, toinen siirtää, yksi pitää autotallia, jollain on useampia autoja, .. jne.
 
 Tuossapa vähän alkuun, mutta tajunnanvirta on lähes loputon mitä tuosta voi kuvitella. Eli mukaan mahtuu tekemään vaikka mitä! Ensimmäisiä työvaiheitamme ovat juuri ideointi, promootio, verkostoituminen, tiedottaminen, ..., varmaankin tämä on vuosien projekti.
+
+{{{
+> Minkälaista open-source ratkaisua olit ajatellut? 
+> Täysin maksutonta siis, ei mitään yritystoimintaa ympärille?
+}}}
+
+Täysin open source, mutta toki siihen on mahdollista kehittää
+liiketoimintaa ympärille oman maun mukaan, alkuun lähinnä konsultointityyppistä ja kun tekninen ratkaisu alkaa olla valmiina, niin kaikki nuo verkoston osatehtävät (yksi tankkaa, yksi huoltaa, yksi putsaa, toinen siirtää, yksi pitää autotallia, jollain on useampia autoja, .. jne.) voivat olla jollekin businessta. Ja toki open source softaa voi sen valmistumisen jälkeen käyttää itse palvelun tarjoamiseen asiakkaille esim. SaaS:sina.
+
+Itse lähden tästä kiinnostuksesta open sourcea kohtaan, eli miten
+luoda toimiva ekosysteemi ja vieläpä niin että siitä saisi businessta
+tulevaisuudessa. Ja olisihan se sulka hatussa =)
