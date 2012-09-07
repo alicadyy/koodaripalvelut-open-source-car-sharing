@@ -16,7 +16,7 @@
 
 }}}
 
-Ongelman ydin CCC:ssä on, että se on "klusteroitunut". Kadulla seisoo satoja autoja tyhjillään päivät ja yöt, mutta CCC:n autot ovat jossain kauempana (=klusteri). Ideana on saattaa kaikki autot jakosysteemin piiriin siten, että "ei tarvitse mennä merta edemmäs kalaan". Ne kaikki kotikatusi autot olisivat pääosin jaettuja, koska siinä voittaisi sekä lainaaja että omistaja (lainaaja maksaa pienen käyttömaksun siitä, että lainaa autoa kun se muuten seisoisi tyhjillään kadulla). Toki mukaan tarvitaan myös vakuutusyhtiöt turvaamaan, että auton omistajan riski pysyy kohtuullisena. Ja erilaisia teknisiä turvaratkaisuja.
+Ongelman ydin CCC:ssä on, että se on "klusteroitunut". Lähimmällä kadulla seisoo satoja autoja tyhjillään päivät ja yöt, mutta CCC:n autot ovat jossain kauempana (=klusteri). Ideana on saattaa kaikki autot jakosysteemin piiriin siten, että "ei tarvitse mennä merta edemmäs kalaan". Ne kaikki kotikatusi autot olisivat pääosin jaettuja, koska siinä voittaisi sekä lainaaja että omistaja (lainaaja maksaa pienen käyttömaksun siitä, että lainaa autoa kun se muuten seisoisi tyhjillään kadulla). Toki mukaan tarvitaan myös vakuutusyhtiöt turvaamaan, että auton omistajan riski pysyy kohtuullisena. Ja erilaisia teknisiä turvaratkaisuja.
 
 Vähän sama idea kun aikanaan kotinettiverkoissa, joissa koko taloyhtiön voimalla hankittiin kunnon netti, koska yksin se oli liian kallista.
 
