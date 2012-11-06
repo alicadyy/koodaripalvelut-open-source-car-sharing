@@ -4,21 +4,21 @@
 
 In-car-tracking device should provide following functionalities:
 
-# Car Status Information Push to Server (for example, every 10 min)
-# Car Status Information on-demand by Poll-Request from Server
+  # Car Status Information Push to Server (for example, every 10 min)
+  # Car Status Information on-demand by Poll-Request from Server
 
 Car Status Information will consist of following data:
-# GPS Location
-# Maintenance status (needs maintenance? etc.)
-# Engine status (engine running?)
-# Fuel status (percentage full?)
-# Vehicle speed
-# How many people inside? Infra red motion detector or smth
-# Lock status (which doors open/locked/recent tracelogs)
-# WebCam snapshots 
+  # GPS Location
+  # Maintenance status (needs maintenance? etc.)
+  # Engine status (engine running?)
+  # Fuel status (percentage full?)
+  # Vehicle speed
+  # How many people inside? Infra red motion detector or smth
+  # Lock status (which doors open/locked/recent tracelogs)
+  # WebCam snapshots 
 
 Car Control Information
-# The Server should be able to send commands like: lock/unlock door(s)
+  # The Server should be able to send commands like: lock/unlock door(s)
 
 Nice-to-have Car Status Information will consist of following data:
-# Vehicle direction, possible destination address?
+  # Vehicle direction, possible destination address?
