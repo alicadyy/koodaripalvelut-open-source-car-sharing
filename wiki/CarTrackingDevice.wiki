@@ -25,3 +25,5 @@ Car Control Information
 
 Nice-to-have Car Status Information will consist of following data:
   # Vehicle direction, possible destination address?
+
+[http://en.wikipedia.org/wiki/On-board_diagnostics On-board diagnostics] can be used to integrate with the car.
