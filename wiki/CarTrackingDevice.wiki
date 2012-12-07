@@ -16,6 +16,9 @@ Car Status Information will consist of following data:
   # How many people inside? Infra red motion detector or smth
   # Lock status (which doors open/locked/recent tracelogs)
   # WebCam snapshots 
+  # Theft notification
+  # Out of Fence / Route / Road notifications
+  # Over speeding / harsh driving notifications
 
 Car Control Information
   # The Server should be able to send commands like: lock/unlock door(s)
