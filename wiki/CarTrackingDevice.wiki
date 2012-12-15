@@ -29,3 +29,6 @@ Nice-to-have Car Status Information will consist of following data:
 [http://en.wikipedia.org/wiki/On-board_diagnostics On-board diagnostics] can be used to integrate with the car.
 
 [http://en.wikipedia.org/wiki/CAN_bus CAN vehicle bus] standard can be used to communicate with the vehicle
+
+Example devices
+  * http://www.mobile-devices.com/our-products/c4-obd2-dongle/
