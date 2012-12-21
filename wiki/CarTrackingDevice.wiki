@@ -32,6 +32,7 @@ Nice-to-have Car Status Information will consist of following data:
 
 Example devices
   * http://www.mobile-devices.com/our-products/c4-obd2-dongle/
+  * http://www.obdsol.com/stn1170/
 
 See video:
   * <wiki:video url="http://www.youtube.com/watch?v=DZStbfenfAI" widht="560"/>
