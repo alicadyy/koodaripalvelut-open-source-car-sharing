@@ -36,6 +36,9 @@ Example devices
   * http://driverlocate.com/products.html
   * http://trakpro.com.au/fleet-tracking.html
   * http://bostonglobaltracking.com/product-details.php
+  * http://www.titangps.ca/fleetreplay-products.htm
+  * http://www.exactpointgps.com/commercialtracking.php
+  * http://www.duratechusa.com/Products/hightech.html
   * http://opennetwork.verizonwireless.com/deviceModuleDetails.aspx?deviceId=719
   * http://www.navizot.com/en/products01_detail_01.php?id=53
 
