@@ -34,6 +34,7 @@ Example devices
   * http://www.mobile-devices.com/our-products/c4-obd2-dongle/
   * http://www.obdsol.com/stn1170/
   * http://driverlocate.com/products.html
+  * http://trakpro.com.au/fleet-tracking.html
   * http://bostonglobaltracking.com/product-details.php
   * http://opennetwork.verizonwireless.com/deviceModuleDetails.aspx?deviceId=719
   * http://www.navizot.com/en/products01_detail_01.php?id=53
