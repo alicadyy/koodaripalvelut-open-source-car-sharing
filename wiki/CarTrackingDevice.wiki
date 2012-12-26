@@ -32,6 +32,7 @@ Nice-to-have Car Status Information will consist of following data:
 
 Example devices
   * http://www.mobile-devices.com/our-products/c4-obd2-dongle/
+  * http://gpsgate.com/devices/gosafe_sniper_g797
   * http://www.obdsol.com/stn1170/
   * http://driverlocate.com/products.html
   * http://trakpro.com.au/fleet-tracking.html
