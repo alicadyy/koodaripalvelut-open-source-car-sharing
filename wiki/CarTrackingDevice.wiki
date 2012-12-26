@@ -21,7 +21,7 @@ Car Status Information will consist of following data:
   # Over speeding / harsh driving notifications
 
 Car Control Information
-  # The Server should be able to send commands like: lock/unlock door(s)
+  # The Server should be able to send commands like: lock/unlock door(s), start/stop engine
 
 Nice-to-have Car Status Information will consist of following data:
   # Vehicle direction, possible destination address?
