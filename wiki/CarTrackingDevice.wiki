@@ -30,7 +30,8 @@ Nice-to-have Car Status Information will consist of following data:
 
 [http://en.wikipedia.org/wiki/CAN_bus CAN vehicle bus] standard can be used to communicate with the vehicle
 
-Example devices
+Example building blocks
+  * http://www.engadget.com/2012/01/09/onstar-announces-closed-api-developers-welcome-to-apply/
   * http://www.mobile-devices.com/our-products/c4-obd2-dongle/
   * http://gpsgate.com/devices/gosafe_sniper_g797
   * http://www.obdsol.com/stn1170/
