@@ -2,9 +2,6 @@
 
 = Car Sharing Use Cases =
 
-Add your content here.
-
-
 == Primary Use Cases ==
 
 * Auction
