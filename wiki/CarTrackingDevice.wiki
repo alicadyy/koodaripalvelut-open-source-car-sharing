@@ -31,6 +31,7 @@ Nice-to-have Car Status Information will consist of following data:
 [http://en.wikipedia.org/wiki/CAN_bus CAN vehicle bus] standard can be used to communicate with the vehicle
 
 Example building blocks
+  * http://www.alibaba.com/product-detail/New-tk103-GSM-GPS-tracker-dual_1838841039.html
   * http://www.engadget.com/2012/01/09/onstar-announces-closed-api-developers-welcome-to-apply/
   * http://www.mobile-devices.com/our-products/c4-obd2-dongle/
   * http://gpsgate.com/devices/gosafe_sniper_g797
