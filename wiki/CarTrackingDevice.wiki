@@ -9,6 +9,7 @@ In-car-tracking device should provide following functionalities:
 
 Car Status Information will consist of following data:
   # GPS Location
+  # Vehicle mileage (start / stop mileage for accounting)
   # Maintenance status (needs maintenance? etc.)
   # Engine status (engine running?)
   # Fuel status (percentage full?)
