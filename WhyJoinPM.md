@@ -1,0 +1,12 @@
+# Wanted: Project Managers, Mentors, and Supervisors #
+
+We need project managers, mentors, and supervisors to keep everything on track and **keep the initiative moving on forward**!
+
+
+## Join us! ##
+
+Showcase your talent and gain experience. Work for a good cause. Save the environment and make the world a better place. Enough said.
+
+## Your tasks... ##
+
+..will be various and interesting. The important thing is that you are passionate about your work. You will be, among other things, recruiting partners and collaborators, increasing visibility through public relations, promotion, networking and collaborating. You will be working closely with other team members brainstorming, workshopping, gathering and organizing ideas, etc. If you are the man/woman for the job, you know the drill.

@@ -1,0 +1,4 @@
+# Rent Cars? Joining Us is a Very Smart Move! #
+
+So you have excess cars in your fleet degrading in value and having low use percentage?
+Get a headstart on future car rental business. Share your cars with us.

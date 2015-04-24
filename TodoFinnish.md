@@ -1,0 +1,42 @@
+# Some random email discussions etc. #
+
+```
+
+> Olemme tällä hetkellä City Car Clubin asiakkaita, joten Car Sharing on siinä
+> mielessä tuttua. Autot ovat CCC:n, eivät asiakkaiden yhdessä omistamia.
+> Olemme toistaiseksi olleet tyytyväisiä, mutta aina kiinnostaa tietää muista
+> vastaavista toimijoista.
+>
+> Kerro lisää, miten voisimme olla tässä mukana. Itse ajattelen, että voisin
+> olla lähinnä noiden autojen käyttäjä - muuta osaamista minulla ei taida
+> olla, tai aikaa hankkia sitä osaamista. Joka tapauksessa olisi kiva kuulla,
+> mitä olet tekemässä. 
+
+```
+
+Ongelman ydin CCC:ssä on, että se on "klusteroitunut". Lähimmällä kadulla seisoo satoja autoja tyhjillään päivät ja yöt, mutta CCC:n autot ovat jossain kauempana (=klusteri). Ideana on saattaa kaikki autot jakosysteemin piiriin siten, että "ei tarvitse mennä merta edemmäs kalaan". Ne kaikki kotikatusi autot olisivat pääosin jaettuja, koska siinä voittaisi sekä lainaaja että omistaja (lainaaja maksaa pienen käyttömaksun siitä, että lainaa autoa kun se muuten seisoisi tyhjillään kadulla). Toki mukaan tarvitaan myös vakuutusyhtiöt turvaamaan, että auton omistajan riski pysyy kohtuullisena. Ja erilaisia teknisiä turvaratkaisuja.
+
+Vähän sama idea kun aikanaan kotinettiverkoissa, joissa koko taloyhtiön voimalla hankittiin kunnon netti, koska yksin se oli liian kallista.
+
+Se osaaminen mitä sinulla/teillä tietysti on, on ideointi ja tietysti maalaisjärki. Eli ideoita miten tällaista kuviota kannattaisi lähteä kehittämään ja markkinoimaan. Siitähän ei ole mitään iloa jos omalla kadulla on vain yksi auto joka on jakosysteemissä mukana. Ja toisaalta mitä ratkaisuja jakosysteemin tulee tarjota, jotta ihmiset innosotuvat siihen mukaan ja se toimii mahdollisimman ekologisesti. Eli priorisointia. Ja vielä kerran muiden mukaan innostamista.
+
+Täällä on yksi yritys jolla on vähän samanlainen idea, mutta kaupallisemmalta pohjalta:
+http://www.businessinsider.com/the-startup-thats-keeping-an-extra-billion-cars-from-hitting-the-road-just-raised-139-million-2012-8
+
+Laskin että heidän rahoituksensa vastaa noin 450 vapaaehtoismiesnaistyövuotta ;)
+
+Kaupallisissa ratkaisuissa on aina se ongelma, että ne tuppaavat klusteroitua. Jokainen haluaa olla yksinvaltias markkinoilla ja sulkea muut palveluntarjoajat pois. Tällainen open source alusta sen sijaan voisi tarjota kaikille mahdollisuuden osallistua kykenemällään tavalla: yksi vuokraa auton, toinen käyttää, yksi tankkaa, yksi huoltaa, yksi putsaa, toinen siirtää, yksi pitää autotallia, jollain on useampia autoja, .. jne.
+
+Tuossapa vähän alkuun, mutta tajunnanvirta on lähes loputon mitä tuosta voi kuvitella. Eli mukaan mahtuu tekemään vaikka mitä! Ensimmäisiä työvaiheitamme ovat juuri ideointi, promootio, verkostoituminen, tiedottaminen, ..., varmaankin tämä on vuosien projekti.
+
+```
+> Minkälaista open-source ratkaisua olit ajatellut? 
+> Täysin maksutonta siis, ei mitään yritystoimintaa ympärille?
+```
+
+Täysin open source, mutta toki siihen on mahdollista kehittää
+liiketoimintaa ympärille oman maun mukaan, alkuun lähinnä konsultointityyppistä ja kun tekninen ratkaisu alkaa olla valmiina, niin kaikki nuo verkoston osatehtävät (yksi tankkaa, yksi huoltaa, yksi putsaa, toinen siirtää, yksi pitää autotallia, jollain on useampia autoja, .. jne.) voivat olla jollekin businessta. Ja toki open source softaa voi sen valmistumisen jälkeen käyttää itse palvelun tarjoamiseen asiakkaille esim. SaaS:sina.
+
+Itse lähden tästä kiinnostuksesta open sourcea kohtaan, eli miten
+luoda toimiva ekosysteemi ja vieläpä niin että siitä saisi businessta
+tulevaisuudessa. Ja olisihan se sulka hatussa =)

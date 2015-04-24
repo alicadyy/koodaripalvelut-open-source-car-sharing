@@ -1,0 +1,22 @@
+# Car Sharing Use Cases #
+
+## Primary Use Cases ##
+
+  * Auction
+  * omistaja voi itse valita onko mukana
+  * **tarkemmat säädöt netissä
+  *** 'aukioloajat' voi valita onko vkl, pyhäpäivä jne ja mihin kellonaikaan minäkin päivänä
+  * **tulee joko tekstiviesti tai sähköpsti tai molemmat
+  *** sähköpostissa linkki asetuksiin
+  * **tekstiviestissä vastauskoodi millä voi keskeyttää sydeemin
+  *** tekstiviestissä vastauskoodi millä voi aktivoida sydeemin uudelleen
+  * **voi tehdä omaan kalenteriin omia varauksia jolloin autosta ei tule ilmoituksia
+  * tekstiviestillä voi ilmoittaa missä postinumerossa auto on
+  * toivottu varauksen kesto ilmoitetaan etukäteen (tieto näkyy myös omistajille)
+  * kun varausaika päättyy, tulee omistajalle tekstarilla kysymys onko auto vapaa oletuspostinumerossa
+  * jos autoa palautetaan etuajassa, omistaja voi ilmoittaa tekstarilla missä postinumerossa auto on vapaana
+  * lyhyille matkoille voi valita [x](x.md) polttoaine sisältyy hintaan -> erillismaksu siitä**
+
+## Advanced, lower priority Use Cases ##
+  * tekstiviestillä voi ilmoittaa aloituskilometrit
+  * tekstiviestillä voi ilmoittaa lopetuskilometrit

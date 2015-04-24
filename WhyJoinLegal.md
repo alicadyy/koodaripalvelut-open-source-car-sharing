@@ -1,0 +1,6 @@
+# We Need You to Become Our Legal Advisor! #
+
+Can you help us navigate through the legal jungle? Are you a specialist in collaboration networks of the future or willing to become one?
+
+## What is in it for you? ##
+Become a better person! Lawyers can't be all that bad, can they? Showcase your talent. Gain experience and work for a good cause.
